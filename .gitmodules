@@ -1,21 +1,24 @@
 [submodule "extras"]
 	path = extras
-	url = https://github.com/pibook/extras.git
+	url = https://github.com/Tarakhs/extras.git
 	branch = master
 [submodule "quotes"]
 	path = quotes
-	url = https://github.com/pibook/_quotes.git
+	url = https://github.com/Tarakhs/_quotes.git
 	branch = master
 [submodule "figures"]
 	path = figures
-	url = https://github.com/pibook/_gallery
+	url = https://github.com/Tarakhs/_gallery
 [submodule "images"]
 	path = images
-	url = https://github.com/pibook/images
+	url = https://github.com/Tarakhs/images
 [submodule "text"]
 	path = text
-	url = https://github.com/mibook/text.git
+	url = https://github.com/Tarakhs/text.git
 	branch = main
 [submodule "bibliography"]
 	path = bibliography
-	url = https://github.com/pibook/bibliography.git
+	url = https://github.com/Tarakhs/bibliography.git
+[submodule "kallipos-notes"]
+	path = kallipos-notes
+	url = https://github.com/Tarakhs/kallipos-notes
