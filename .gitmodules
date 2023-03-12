@@ -1,1 +1,22 @@
  
+[submodule "extras"]
+	path = extras
+	url = https://github.com/KonstantinosTourtsakis/extras.git
+[submodule "quotes"]
+	path = quotes
+	url = https://github.com/KonstantinosTourtsakis/_quotes
+[submodule "figures"]
+	path = figures
+	url = https://github.com/KonstantinosTourtsakis/_gallery
+[submodule "images"]
+	path = images
+	url = https://github.com/KonstantinosTourtsakis/images
+[submodule "text"]
+	path = text
+	url = https://github.com/KonstantinosTourtsakis/text
+[submodule "bibliography"]
+	path = bibliography
+	url = https://github.com/KonstantinosTourtsakis/bibliography
+[submodule "kallipos-notes"]
+	path = kallipos-notes
+	url = https://github.com/KonstantinosTourtsakis/kallipos-notes
